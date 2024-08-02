@@ -1,0 +1,23 @@
+{
+  "float": [
+    {
+      "class": "pop-shell-example",
+      "title": "pop-shell-example"
+    },
+    {
+      "class": "org.gnome.Calculator"
+    },
+    {
+      "class": "org.gnome.Tour"
+    },
+    {
+      "class": "org.gnome.NautilusPreviewer"
+    },
+    {
+      "class": "firefox",
+      "title": "About Mozilla Firefox"
+    }
+  ],
+  "skiptaskbarhidden": [],
+  "log_on_focus": false
+}
